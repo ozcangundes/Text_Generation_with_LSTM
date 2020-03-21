@@ -6,7 +6,7 @@ Dataset is crawled via Beautifulsoup framework in Python and it consists of 33 t
 
 Model codes can be found in [here](https://github.com/ozcangundes/Text_Generation_with_LSTM/blob/master/LSTM_ile_Konu%C5%9Fma_%C3%9Cretimi.ipynb)
 
-Medium blog link is here.
+Medium blog link is [here](https://medium.com/@ozcangundes/lstm-dil-modeli-ile-metin-%C3%BCretimi-6c004e2931d9).
 
 LSTM is quite effective and easy-to-implement for this task. But it is crucial to have larger training data than mine. Also, you can try attention based architectures like GPT-2.
 
